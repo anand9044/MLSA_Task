@@ -37,7 +37,7 @@ const projectList = [
     url: "https://examscholarship.blogspot.com/?m=1",
   },
   {
-    title: "Linked in link",
+    title: "Linkedin link",
     description:
       "This is my linked in website.",
     url: "https://www.linkedin.com/in/anand-singh-0463291a0/",

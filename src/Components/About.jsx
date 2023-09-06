@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Web design",
   "Soft skills",
-  "C/C++",
+  "C/C++,Java",
   "Digital Marketer",
   "Mobile gamer",
   "Gaming design",
